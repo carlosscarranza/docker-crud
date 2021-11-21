@@ -26,7 +26,6 @@ namespace CrudmySQL
 
             services.AddDbContextPool<BgAJ759B8lContext>(options => options.UseMySql(mySqlConnectionStr, ServerVersion.AutoDetect(mySqlConnectionStr)));
 
-
             var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
             services.AddCors(options =>
@@ -53,11 +52,11 @@ namespace CrudmySQL
                 app.UseDeveloperExceptionPage();
             }
 
-            //app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
 
             app.UseRouting();
 
-            //app.UseAuthorization();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

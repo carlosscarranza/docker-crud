@@ -269,7 +269,6 @@ C:\Repos\docker-crud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Repos\docker-crud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Repos\docker-crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Repos\docker-crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Repos\docker-crud\obj\Debug\netcoreapp3.1\CrudmySQL.csproj.AssemblyReference.cache
 C:\Repos\docker-crud\obj\Debug\netcoreapp3.1\CrudmySQL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Repos\docker-crud\obj\Debug\netcoreapp3.1\CrudmySQL.AssemblyInfoInputs.cache
 C:\Repos\docker-crud\obj\Debug\netcoreapp3.1\CrudmySQL.AssemblyInfo.cs

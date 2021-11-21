@@ -9,7 +9,7 @@ using CrudmySQL.Models;
 
 namespace CrudmySQL.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Personas")]
     [ApiController]
     public class PersonasController : ControllerBase
     {
