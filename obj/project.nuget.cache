@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WAxpvRegq4wzK9aK4Bnr9ewYyXyAzOnaLRcXWEmoPe5ut1/A2h4g8NP3QwqanRE2zt6mn6NI+Y2EJwZ17rqfaA==",
+  "dgSpecHash": "EV/K+zYJt6K8w8hEwKJ8ZDqIUlVxK0T8GucYzSf4IT1AdjwhXnvhyTUzwUwl9+JAAZP8atuE3EiIXtPiLGsR1A==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\CrudmySQL\\CrudmySQL.csproj",
+  "projectFilePath": "C:\\Repos\\docker-crud\\CrudmySQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\axter\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\axter\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

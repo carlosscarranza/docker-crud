@@ -8987,11 +8987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\CrudmySQL\\CrudmySQL.csproj",
+      "projectUniqueName": "C:\\Repos\\docker-crud\\CrudmySQL.csproj",
       "projectName": "CrudmySQL",
-      "projectPath": "C:\\Repos\\CrudmySQL\\CrudmySQL.csproj",
+      "projectPath": "C:\\Repos\\docker-crud\\CrudmySQL.csproj",
       "packagesPath": "C:\\Users\\axter\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\CrudmySQL\\obj\\",
+      "outputPath": "C:\\Repos\\docker-crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\axter\\AppData\\Roaming\\NuGet\\NuGet.Config",
